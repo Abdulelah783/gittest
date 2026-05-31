@@ -1,14 +1,1 @@
-.dart_tool/
-.packages
-.pub/
-build/
-
-ios/Pods/
-ios/.symlinks/
-
-android/.gradle/
-
-.idea/
-.vscode/
-.DS_Store
-*.log
+notes.txt
